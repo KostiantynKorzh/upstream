@@ -10,7 +10,6 @@ Luckily I added a tag `initial-commit` when the project started which we can use
 
 To get help on how to use bisect I can always run `git bisect --help`.
 
-To run the tests I can execute the test script: CHANGE
 ```
 $ ./test.sh
 ```
